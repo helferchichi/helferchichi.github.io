@@ -23,7 +23,7 @@
             - "Matching."
     - title: Master 2: Probability and Statistics
       institution: Université Paris-Saclay
-      year: 2022
+      year: "2022"
       description:
         - Description 1.
         - Description 2.
@@ -43,18 +43,18 @@
             - Sub-description 2.
     - title: Internship
       institution: Université Gustave-Eiffel
-      year: 2021
+      year: "2021"
       description:
         - Description 1.
         - Description 2.
 
     - title: Internship
       institution: Oxford University
-      year: 2020
+      year: "2020"
 
     - title: Internship
       institution: Ecole Normale Supérieure Cachan
-      year: 2019
+      year: "2019"
       description:
 
 
