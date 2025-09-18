@@ -1,26 +1,26 @@
-- title: General Information
-  type: map
+- title: "General Information"
+  type: "map"
   contents:
-    - name: Full Name
-      value: Hafedh El Ferchichi
-    - name: Date of Birth
-      value: 17th March 1995
-    - name: Languages
-      value: English, French, Arabic
+    - name: "Full Name"
+      value: "Hafedh El Ferchichi"
+    - name: "Date of Birth"
+      value: "17th March 1995"
+    - name: "Languages"
+      value: "English, French, Arabic"
 
-- title: Education
-  type: time_table
+- title: "Education"
+  type: "time_table"
   contents:
-    - title: PhD
-      institution: Ensae Paris - Institut Polytechnique Paris
-      year: 2025
+    - title: "PhD"
+      institution: "Ensae Paris - Institut Polytechnique Paris"
+      year: "2025"
       description:
-        - Description 1.
-        - Description 2.
-        - title: On some problems of online matching.
+        - "Description 1."
+        - "Description 2."
+        - title: "On some problems of online matching."
           contents:
-            - Statistics.
-            - Matching.
+            - "Statistics."
+            - "Matching."
     - title: Master 2: Probability and Statistics
       institution: Université Paris-Saclay
       year: 2022
